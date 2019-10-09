@@ -1,0 +1,15 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "description": "Simple proxy/forwarding server",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js 9000"
+  },
+  "keywords": [
+    "Proxy",
+    "Server"
+  ],
+  "author": "ahprasandh",
+  "license": "MIT"
+}
